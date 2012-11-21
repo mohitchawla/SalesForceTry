@@ -14,7 +14,6 @@ public class Application extends Controller {
     	System.out.println("mohit Chawla 1");
     	System.out.println("mohit Chawla 3");
     	System.out.println("mohit Chawla 6");
-    	System.out.println("mohit Chawla 7");
         render();
     }
 
